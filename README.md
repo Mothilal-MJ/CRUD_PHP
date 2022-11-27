@@ -8,10 +8,10 @@
 
 -----------------------------------------------------------------
 4. create a folder name "crudoperation" in directory:
-            c:xampp\htdocs
+            c: xampp\htdocs
    
 5. Download this repository and paste in directory:
-            c:xampp\htdocs\crudoperation
+            c: xampp\htdocs\crudoperation
 
 -----------------------------------------------------------------
 
