@@ -1,6 +1,7 @@
 # CRUD_PHP
-1. Download this repository
+1. Download this repository and paste in directory:
 
+            c:xampp\htdocs
 -------------------------------------------------------
 2. Install XAMPP.exe
 
